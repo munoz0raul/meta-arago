@@ -1,9 +1,0 @@
-[Match]
-Name=eth*
-KernelCommandLine=!root=/dev/nfs
-
-[Link]
-RequiredForOnline=no
-
-[Network]
-DHCP=yes
